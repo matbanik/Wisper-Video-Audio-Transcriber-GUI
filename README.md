@@ -66,4 +66,3 @@ This library is used for creating PDF files. The script `vt_transcriber.py` incl
     -   Click "Find Files" and select a folder containing your media files. The app will scan it and add all valid files to the queue.
     -   Use "Move Up", "Move Down", or "Remove Selected" to manage the queue.
 5.  **Start**: Click "Start Transcription". The application will begin processing files from the bottom of the list upwards.
-

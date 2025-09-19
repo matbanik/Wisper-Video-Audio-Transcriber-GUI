@@ -13,8 +13,8 @@ The application provides a complete interface to manage a transcription workflow
 - **Output**: The tool generates a clean PDF transcript for each file, automatically stripping out timestamps. The final PDF is named using the source file's parent folder and its original filename (`parent-folder_original-filename.pdf`).
 - **Console**: A log provides real-time feedback on the transcription process, errors, and application status.
 
-!(./VT.jpg)
 
+![Application Screenshot](./VT.jpg)
 ---
 
 ## Dependencies & Setup
